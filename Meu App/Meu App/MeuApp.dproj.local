@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/05 21:14:59.000.098,=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/05 21:15:36.000.500,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\MyApp.dfm=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/11/05 21:15:36.000.500,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\MyApp.pas=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/05 21:15:40.000.484,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\MeuApp.dproj=C:\Users\Lucas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/11/05 22:05:07.000.864,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/05 22:16:14.000.514,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Sobre.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/05 22:16:14.000.514,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Sobre.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.dfm</Transaction>
+    <Transaction>2019/11/18 12:28:29.000.613,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/18 12:29:10.000.142,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/18 12:31:28.000.229,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Tab.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/18 12:31:28.000.229,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Tab.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.dfm</Transaction>
+    <Transaction>2019/11/18 21:26:16.000.870,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/18 21:26:50.000.432,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Calendar.dfm</Transaction>
+    <Transaction>2019/11/18 21:26:50.000.432,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Calendar.pas</Transaction>
+    <Transaction>2019/11/19 19:23:49.000.321,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Div\div1.pas</Transaction>
+    <Transaction>2019/11/19 19:25:37.000.785,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Div\div1.pas=</Transaction>
+    <Transaction>2019/11/19 19:29:02.000.771,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\ConversorTemp\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 19:31:10.000.763,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\ConversorTemp\Temperatura.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\ConversorTemp\Unit1.dfm</Transaction>
+    <Transaction>2019/11/19 19:31:10.000.763,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\ConversorTemp\Temperatura.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\ConversorTemp\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 19:46:30.000.137,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\Cadastro\untPrincipal.pas</Transaction>
+    <Transaction>2019/11/19 19:48:13.000.343,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\Cadastro\Cadast.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\Cadastro\untPrincipal.dfm</Transaction>
+    <Transaction>2019/11/19 19:48:13.000.343,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\Cadastro\Cadast.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\Cadastro\untPrincipal.pas</Transaction>
+    <Transaction>2019/11/19 20:25:58.000.098,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\SomaProd\SomProd.pas</Transaction>
+    <Transaction>2019/11/19 21:42:52.000.635,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Decisão\ParOuImpar.pas</Transaction>
+    <Transaction>2019/11/19 22:10:50.000.408,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Decisão\MaiMen\MaiMen.pas</Transaction>
+    <Transaction>2019/11/19 22:20:09.000.700,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/19 22:20:25.000.821,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Fat.pas</Transaction>
+    <Transaction>2019/11/19 22:20:25.000.821,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Fat.dfm</Transaction>
+    <Transaction>2019/11/20 11:53:37.305,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Decisão\MaiMen\MaiMen.pas=</Transaction>
+    <Transaction>2019/11/20 11:53:37.339,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Calendar.pas=</Transaction>
+    <Transaction>2019/11/20 11:54:08.534,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\ConversorTemp\Temperatura.pas=</Transaction>
+    <Transaction>2019/11/20 11:54:08.546,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\SomaProd\SomProd.pas=</Transaction>
+    <Transaction>2019/11/20 11:54:08.555,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Decisão\ParOuImpar.pas=</Transaction>
+    <Transaction>2019/11/20 11:54:08.565,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\Cadastro\Cadast.pas=</Transaction>
+    <Transaction>2019/11/20 11:54:26.559,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Cadastro\Cadast.pas</Transaction>
+    <Transaction>2019/11/20 11:56:41.302,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Linear\SomaProd\SomProd.pas</Transaction>
+    <Transaction>2019/11/20 11:57:12.686,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Linear\ConversorTemp\Temperatura.pas</Transaction>
+    <Transaction>2019/11/20 11:57:44.262,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Decisão\MaiMen\MaiMen.pas</Transaction>
+    <Transaction>2019/11/20 11:57:58.287,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Decisão\ParImp\ParOuImpar.pas</Transaction>
+    <Transaction>2019/11/20 12:07:48.830,=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/20 12:08:21.172,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Fat.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.pas</Transaction>
+    <Transaction>2019/11/20 12:08:21.172,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Fat.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Meu App\Unit2.dfm</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Cadastro"/>
+    <File Path="Cadastro\Cadast.pas"/>
+    <File Path="Cadastro\Cadast.dfm"/>
+    <File Path="Decisão"/>
+    <File Path="Decisão\MaiMen"/>
+    <File Path="Decisão\MaiMen\MaiMen.pas"/>
+    <File Path="Decisão\MaiMen\MaiMen.dfm"/>
+    <File Path="Decisão\ParImp"/>
+    <File Path="Decisão\ParImp\ParOuImpar.pas"/>
+    <File Path="Decisão\ParImp\ParOuImpar.dfm"/>
+    <File Path="Linear"/>
+    <File Path="Linear\ConversorTemp"/>
+    <File Path="Linear\ConversorTemp\Temperatura.pas"/>
+    <File Path="Linear\ConversorTemp\Temperatura.dfm"/>
+    <File Path="Linear\SomaProd"/>
+    <File Path="Linear\SomaProd\SomProd.pas"/>
+    <File Path="Linear\SomaProd\SomProd.dfm"/>
+    <File Path="Sobre.pas"/>
+    <File Path="Sobre.dfm"/>
+    <File Path="Tab.pas"/>
+    <File Path="Tab.dfm"/>
+    <File Path="MyApp.pas"/>
+    <File Path="MyApp.dfm"/>
+    <File Path="Fat.pas"/>
+    <File Path="Fat.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

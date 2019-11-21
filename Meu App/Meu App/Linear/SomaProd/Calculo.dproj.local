@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/18 13:39:12.000.952,=C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/18 13:55:53.000.200,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\arthu\Documents\Delphi\SomaProd\SomaProd.pas</Transaction>
+    <Transaction>2019/09/18 13:55:53.000.200,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\arthu\Documents\Delphi\SomaProd\SomaProd.dfm</Transaction>
+    <Transaction>2019/09/18 14:00:29.000.853,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\arthu\Documents\Delphi\SomaProd\Calculo.dproj</Transaction>
+    <Transaction>2019/11/19 20:24:22.000.134,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\SomaProd\SomaProd.pas=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\SomaProd\SomProd.pas</Transaction>
+    <Transaction>2019/11/19 20:24:22.000.134,C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\SomaProd\SomaProd.dfm=C:\Users\Lucas\OneDrive - Etec Centro Paula Souza\Aulas - Técnicas de Programação - Prof. Wagner\Delphi\SomaProd\SomProd.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
